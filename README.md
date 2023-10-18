@@ -32,3 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syam15&layout=compact" height=180 />
 </p>
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
