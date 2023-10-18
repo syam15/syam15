@@ -28,6 +28,11 @@
 - 😂 lets get my blogger `syam1515.blogspot.com`.
 
 <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=syam15&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syam15&layout=compact" height=180 />
+</p>
+
+<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syam15&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
