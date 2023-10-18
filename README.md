@@ -18,6 +18,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syam15&layout=compact" height=180 />
 </p>
 
+:octocat: **Tools**
+<p>
+    <img src="https://img.shields.io/badge/Linux-Ubuntu-blue?&logo=ubuntu" />
+    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
+
 :octocat: **About me** 
 
 - 👱 Pronouns: `he/him`
