@@ -18,5 +18,3 @@
 - 👱 Pronouns: `he/him`
 - 🤔 Let's discuss about bussiness drop your contact to `syamspensa12@gmail.com`.
 - 😂 lets get my blogger `syam1515.blogspot.com`.
-# syamoff
-# syam15
