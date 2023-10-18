@@ -13,11 +13,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/018b42a0-1de3-4665-8d51-306605e0749e.svg)](https://wakatime.com/@syam15)
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=syam15&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syam15&layout=compact" height=180 />
-</p>
-
 :octocat: **Tools**
 <p>
     <img src="https://img.shields.io/badge/Linux-Ubuntu-blue?&logo=ubuntu" />
@@ -31,3 +26,9 @@
 - 👱 Pronouns: `he/him`
 - 🤔 Let's discuss about bussiness drop your contact to `syamspensa12@gmail.com`.
 - 😂 lets get my blogger `syam1515.blogspot.com`.
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=syam15&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syam15&layout=compact" height=180 />
+</p>
+
