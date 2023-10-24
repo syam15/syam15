@@ -1,5 +1,5 @@
 <div align="center">
-  ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+  <h1><img src="https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif"></h1>
 </div>
 
 <div align="center">
