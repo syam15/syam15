@@ -1,4 +1,7 @@
+<div align="center">
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+</div>
+
 <div align="center">
   <h1> HI THERE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
